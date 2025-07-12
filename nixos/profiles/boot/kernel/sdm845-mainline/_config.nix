@@ -6798,7 +6798,6 @@ in
   "DEBUG_INFO_REDUCED" = yes; # Reduce debugging information
   "DEBUG_INFO_COMPRESSED_NONE" = yes; # Don't compress debug information
   "DEBUG_INFO_COMPRESSED_ZLIB" = no; # Compress debugging information with zlib
-  "DEBUG_INFO_SPLIT" = no; # Produce split debuginfo in .dwo files
   "GDB_SCRIPTS" = no; # Provide GDB scripts for kernel debugging
   "FRAME_WARN" = freeform "2048"; # Warn for stack frames larger than
   "STRIP_ASM_SYMS" = no; # Strip assembler-generated symbols during link
