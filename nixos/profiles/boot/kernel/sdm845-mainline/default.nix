@@ -18,7 +18,6 @@ let
       # for envfs
       EROFS_FS = yes;
       NET_9P = module;
-      CONFIG_NET_9P_VIRTIO = module;
       "9P_FS" = module;
       # other
       RUST = yes;
